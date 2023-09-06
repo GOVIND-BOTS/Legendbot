@@ -7,7 +7,7 @@
     "legendbot",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT",
+  "repository": "https://github.com/GOVIND-BOTS/Legendbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -88,7 +88,7 @@
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
-    "url": "https://github.com/LEGEND-AI/heroku-buildpack-nodejs"
+    "url": "https://github.com/GOVIND-BOTS/Legendbot/heroku-buildpack-nodejs"
   },{
     "url": "heroku/python"
   }]
